@@ -1,0 +1,1 @@
+# Photo booth script for Processing 3.
