@@ -11,7 +11,7 @@ This is my first [Processing 3](https://processing.org/download/?processing) app
 
 ## How it works
 First, you must download and install [Processing 3](https://processing.org/download/?processing) on your computer.
-Then, you must [download](https://github.com/MathieuHalle/photo-booth/archive/master.zip) and run this script. **The script has 3 stages:**
+Then, you must [download](https://github.com/icibertha/photo-booth/archive/master.zip) and run this script. **The script has 3 stages:**
 
 ### Stand by
 At first, the app waits for a user input. Simply press any key on the keyboard or click anywhere with the mouse to get started. You can also [make or buy](http://help.sparkbooth.com/kb/building-your-own-photo-booth/usb-button-keyboard-replacements) a button.
